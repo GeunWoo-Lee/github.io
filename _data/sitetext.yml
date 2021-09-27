@@ -24,18 +24,18 @@ ko-KR: &DEFAULT_KR
     section: services
     list:
       - title: "11번가 쇼핑 프로그램"
-        desc: "파이썬을 이용한 11번가 자동 쇼핑 프로그램. chrome driver, celenium을 사용하여 구현"
+        desc: "파이썬을 이용한 11번가 자동 쇼핑 프로그램. 11st 쇼핑 api와 chrome driver, selenium을 사용하여 구현"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "bitmex 구독 프로그램(개발중)"
         desc: "파이썬을 사용하여 websocket과 RestAPI를 사용할 예정"
         icon: fas fa-laptop
       - title: "Java Spring 프로젝트"
         desc: "java, jdbc, oracle, tomcat, html, css, javascript, jquery, spring, mybatis."
-        icon: fas fa-laptop
+        icon: fas fa-chrome
       
   portfolio:
     title: "Portfolio"
-    text: "java, jdbc, oracle, html, css, javascript, jquery, mybatis, spring"
+    text: "java, jdbc, oracle, html, css, javascript, jquery, mybatis, spring, python, chrome driver, selenium, websocket, Rest API"
     section: portfolio
     closebutton: "Close Project"
 
