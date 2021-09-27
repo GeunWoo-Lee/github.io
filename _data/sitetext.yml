@@ -13,14 +13,14 @@
 
 ko-KR: &DEFAULT_KR
   header:
-    title: 안녕하세요!
-    text: 반갑습니다.
+    title: 안녕하세요, 저의 웹사이트 입니다. 
+    text: 이곳에 방문해주셔서 감사합니다.
     button: 더 알아보기
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "진행중"
+    text: "&ldquo;저의 작업물이에요..&rdquo;"
     section: services
     list:
       - title: "11번가 쇼핑 프로그램"
@@ -40,7 +40,7 @@ ko-KR: &DEFAULT_KR
     closebutton: "Close Project"
 
   about:
-    title: "About Us"
+    title: "About .."
     text: "나의 이야기"
     body: "시작하는 중"
     section: about
