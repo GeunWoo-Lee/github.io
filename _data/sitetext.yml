@@ -350,6 +350,13 @@ ko-KR: &DEFAULT_KR
     section: portfolio
     closebutton: "Close Project"
 
+  about:
+    title: "About Us"
+    text: "나의 이야기"
+    body: "시작하는 중"
+    section: about
+  
+
   timeline:
     title: "Timeline"
     text: "나의 타임라인"
@@ -370,18 +377,14 @@ ko-KR: &DEFAULT_KR
      
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "나의 이야기"
-    body: "시작하는 중"
-    section: about
-
-  clients:
-    section: clients
-    max-height: 100px
 
   team:
-    title: ""
+    title: "팀원 소개"
+    text: "아직은 혼자에요" 	
+    people:
+      - name: "이근우"
+        role: "프로그래머"
+        image: assets/img/team/me.jpg	
         
   contact:
     title: "제게 연락하세요"
