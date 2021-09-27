@@ -340,7 +340,7 @@ ko-KR: &DEFAULT_KR
       - title: "bitmex 구독 프로그램(개발중)"
         desc: "파이썬을 사용하여 websocket과 RestAPI를 사용할 예정"
         icon: fas fa-laptop
-      - title: "Java Spring프로젝트"
+      - title: "Java Spring 프로젝트"
         desc: "java, jdbc, oracle, tomcat, html, css, javascript, jquery, spring, mybatis."
         icon: fas fa-laptop
       
