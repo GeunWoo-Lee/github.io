@@ -10,7 +10,8 @@ caption:
   thumbnail: assets/img/timeline/6.jpg
 ---
 
-java, jdbc, oracleDB, html5, css3, javascript, jquery, Spring, mybatis를 사용하여 간단한 프로젝트 구현
+java, jdbc, oracleDB, html5, css3, javascript, jquery, Spring, mybatis를 사용하여 
+간단한 프로젝트 구현
 
 {:.list-inline}
 

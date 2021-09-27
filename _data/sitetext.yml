@@ -31,7 +31,7 @@ ko-KR: &DEFAULT_KR
         icon: fas fa-laptop
       - title: "Java Spring 프로젝트"
         desc: "java, jdbc, oracle, tomcat, html, css, javascript, jquery, spring, mybatis."
-        icon: fas fa-chrome
+        icon: fab fa-chrome
       
   portfolio:
     title: "Portfolio"
@@ -53,16 +53,17 @@ ko-KR: &DEFAULT_KR
     # left is the default
     #start_align: "left"
     events:
-      - title: "한국정보교육원의 훈련교사 "
-        year: "2019.10.14-2021.02.01"
-        desc: "java를 이용한 백엔드 프론트 엔드 개발자 양성과정의 훈련교사로써 근무 하였다."
-        image: assets/img/timeline/6.jpg
-        alt:
       - title: "한국기술교육대학교 졸업"
         year: "2017"
         desc: "메카트로닉스 공학부 졸업"
         image: assets/img/timeline/5.jpg
         alt:
+      - title: "한국정보교육원의 훈련교사 "
+        year: "2019.10.14-2021.02.01"
+        desc: "java를 이용한 백엔드 프론트 엔드 개발자 양성과정의 훈련교사로써 근무 하였다."
+        image: assets/img/timeline/6.jpg
+        alt:
+      
      
     end: "Be Part <br> of Our <br> Story!"
 
