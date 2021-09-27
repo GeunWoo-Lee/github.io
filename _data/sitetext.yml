@@ -322,7 +322,7 @@ es-CO:
   <<: *DEFAULT_ES
 
 
-KR: &DEFAULT_KR
+ko: &DEFAULT_KR
   header:
     title: 안녕하세요!
     text: 반갑습니다.
