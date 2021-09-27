@@ -322,3 +322,94 @@ es-CO:
   <<: *DEFAULT_ES
 
 
+ko-KR: &DEFAULT_KR
+  header:
+    title: 안녕하세요!
+    text: 반갑습니다.
+    button: 더 말하실 것이 있나요?
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    text: "여기서 하는 것"
+    section: services
+    list:
+      - title: "11번가 쇼핑 프로그램"
+        desc: "파이썬을 이용한 11번가 자동 쇼핑 프로그램. chrome driver, celenium을 사용하여 구현"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "bitmex 구독 프로그램(개발중)"
+        desc: "파이썬을 사용하여 websocket과 RestAPI를 사용할 예정"
+        icon: fas fa-laptop
+      - title: "Java를 이용한 Spring 프로젝트"
+        desc: "java, jdbc, oracle, tomcat, html, css, javascript, jquery, spring, mybatis."
+        icon: fas fa-laptop
+      
+  portfolio:
+    title: "Portfolio"
+    text: "서비스 중인 포트폴리오"
+    section: portfolio
+    closebutton: "Close Project"
+
+  timeline:
+    title: "Timeline"
+    text: "나의 타임라인"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "한국정보교육원의 훈련교사 "
+        year: "2020-2021"
+        desc: "java를 이용한 백엔드 프론트 엔드 개발자 양성과정의 훈련교사로써 근무 하였다."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "An Agency is Born"
+        year: "2015"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Jekyll Theme is created"
+        year: "2019"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Title"
+        year: "2009-2011"
+        desc: "Your description here, **Markdown** is fully supported."
+        image: assets/img/timeline/4.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
+
+  about:
+    title: "About Us"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
+
+  clients:
+    section: clients
+    max-height: 100px
+    
+  contact:
+    title: "Contact Us"
+    text: "yunkny@hanmail.net"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://github.com/GeunWoo-Lee/github.io
+        icon: "fab fa-github"
