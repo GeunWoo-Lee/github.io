@@ -1,19 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: bitmex 자동 거래
+subtitle: python 프로젝트
+image: assets/img/timeline/6.jpg
+alt: 
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: bitmex 자동 거래
+  subtitle: python 프로젝트
+  thumbnail: assets/img/timeline/6.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+pyhon과 websocket, Rest API 및 Asyncio를 사용하여 개발중, 아직 해야 할것이 상당히 많습니다. 
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2021-09 ~ 진행중
+- Category: python 프로젝트

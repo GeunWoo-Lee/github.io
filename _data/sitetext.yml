@@ -76,7 +76,7 @@ ko-KR: &DEFAULT_KR
         image: assets/img/team/me.jpg	
         
   contact:
-    title: "제게 연락하세요"
+    title: "제게 연락하고 싶으신가요?"
     text: "010-2823-7491"
     section: contact
     name: "Name*"
