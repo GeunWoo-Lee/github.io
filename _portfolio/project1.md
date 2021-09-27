@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/timeline/6.jpg
 ---
 
-python과 websocket, Rest API 및 Asyncio를 사용하여 개발중, 아직 해야 할것이 상당히 많습니다. 
+python과 websocket, Rest API 및 Asyncio를 사용하여 개발중, 아직 해야 할 것이 상당히 많습니다. 
 
 {:.list-inline}
 
