@@ -16,7 +16,7 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 근우의 웹사이트
+title      : Geun-woo's Website
 email      : yunkny@hanmail.net #this is also the email contact forms will go to
 description: "홍보 웹사이트"
 author     : 이근우
@@ -25,7 +25,7 @@ author     : 이근우
   # height: 60 #height in px, defaults to 52px
 
 locale: "ko-KR" # See available languages in _data/sitetext.yml
-encoding: UTF-8
+
 
 analytics:
   google: #Google Analytics tracking code here
