@@ -362,38 +362,30 @@ ko-KR: &DEFAULT_KR
         desc: "java를 이용한 백엔드 프론트 엔드 개발자 양성과정의 훈련교사로써 근무 하였다."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "2015"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "한국기술교육대학교 졸업"
+        year: "2017"
+        desc: "메카트로닉스 공학부 졸업"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+     
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "나의 이야기"
+    body: "시작하는 중"
     section: about
 
   clients:
     section: clients
     max-height: 100px
-    
+
+  team:
+    title: "비어 있음"
+        
   contact:
-    title: "Contact Us"
-    text: "yunkny@hanmail.net"
+    title: "제게 연락하세요"
+    text: "010-2823-7491"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -404,7 +396,7 @@ ko-KR: &DEFAULT_KR
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "메시지 보내기"
 
   footer:
     legal: "Privacy Policy"
