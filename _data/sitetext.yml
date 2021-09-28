@@ -42,7 +42,7 @@ ko-KR: &DEFAULT_KR
   about:
     title: "About"
     text: "&ldquo;직업 학교 자바 선생님으로 근무했었어요. 그런데... &rdquo;"
-    body: "&ldquo;개발이 하고 싶어요.&rdquo;"
+    body: "&ldquo;개발이 하고 싶었어요.&rdquo;"
     section: about
   
 
@@ -78,7 +78,7 @@ ko-KR: &DEFAULT_KR
         image: assets/img/team/3.jpg	
         
   contact:
-    title: "Contact?"
+    title: "Contact Me"
     text: "Tel : 010-2823-7491"
     section: contact
     name: "Name*"
