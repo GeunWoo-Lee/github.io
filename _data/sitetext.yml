@@ -30,19 +30,19 @@ ko-KR: &DEFAULT_KR
         desc: "파이썬을 사용하여 websocket과 RestAPI를 사용할 예정"
         icon: fas fa-laptop
       - title: "Java Spring 프로젝트"
-        desc: "java, jdbc, oracle, tomcat, html, css, javascript, jquery, spring, mybatis."
+        desc: "java, jdbc, oracle, tomcat, html, css, javascript, jquery, spring, mybatis의 기술을 사용하여 간단한 프로젝트 구현"
         icon: fab fa-chrome
       
   portfolio:
     title: "Portfolio"
-    text: "java, jdbc, oracle, html, css, javascript, jquery, mybatis, spring, python, chrome driver, selenium, websocket, Rest API"
+    text: "java, jdbc, oracle, html, css, javascript, jquery, mybatis, spring, python, chrome driver, selenium, websocket, Rest API, etc.."
     section: portfolio
     closebutton: "Close Project"
 
   about:
     title: "About"
     text: "&ldquo;직업 학교 자바 선생님으로 근무했었어요. 그런데... &rdquo;"
-    body: "to be continue.."
+    body: "개발을 하고 싶어요"
     section: about
   
 
@@ -53,16 +53,17 @@ ko-KR: &DEFAULT_KR
     # left is the default
     #start_align: "left"
     events:
-      - title: "한국기술교육대학교 졸업"
-        year: "2017"
-        desc: "메카트로닉스 공학부 졸업"
-        image: assets/img/timeline/5.jpg
-        alt:
       - title: "한국정보교육원의 훈련교사 "
         year: "2019.10.14-2021.02.01"
         desc: "java를 이용한 백엔드와 프론트엔드 개발자 양성과정의 훈련교사로써 근무 하였다."
         image: assets/img/timeline/6.jpg
         alt:
+      - title: "한국기술교육대학교 졸업"
+        year: "2017"
+        desc: "메카트로닉스 공학부 졸업"
+        image: assets/img/timeline/5.jpg
+        alt:
+     
       
      
     end: "Be Part <br> of Our <br> Story!"
