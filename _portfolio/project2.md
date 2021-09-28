@@ -19,5 +19,5 @@ java, jdbc, oracleDB, tomcat, html5, css3, javascript, jquery, Spring, mybatis�
 - Date: 2020-11 
 - Category: java 프로젝트
 
-<button class="btn btn-primary" type="button" onclick="window.open('https://github.com/GeunWoo-Lee/Spring_miniproject.git')">소스보기</button>
+<button class="btn btn-primary" type="button" onclick="window.open('https://github.com/GeunWoo-Lee/Spring_miniproject.git')">구체적 정보</button>
 
