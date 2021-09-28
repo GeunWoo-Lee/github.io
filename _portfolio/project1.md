@@ -1,11 +1,11 @@
 ---
-title: bitmex 자동 거래
+title: bitmex 자동 거래 시스템
 subtitle: python 프로젝트
 image: assets/img/portfolio/bitmex2.jpg
 alt: 
 
 caption:
-  title: bitmex 자동 거래
+  title: bitmex 자동 거래 시스템
   subtitle: python 프로젝트
   thumbnail: assets/img/portfolio/bitmex2.jpg
 ---
