@@ -40,9 +40,9 @@ ko-KR: &DEFAULT_KR
     closebutton: "Close Project"
 
   about:
-    title: "About .."
+    title: "About"
     text: "&ldquo;직업 학교 자바 선생님으로 근무했었어요. 그런데... &rdquo;"
-    body: "시작하는 중"
+    body: "to be continue.."
     section: about
   
 
@@ -77,7 +77,7 @@ ko-KR: &DEFAULT_KR
         image: assets/img/team/3.jpg	
         
   contact:
-    title: "제게 연락하고 싶으신가요?"
+    title: "Contact?"
     text: "Tel : 010-2823-7491"
     section: contact
     name: "Name*"
@@ -89,7 +89,7 @@ ko-KR: &DEFAULT_KR
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "메시지 보내기"
+    submit: "메일 보내기"
 
   footer:
     legal: "Privacy Policy"
