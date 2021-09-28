@@ -19,5 +19,5 @@ java, jdbc, oracleDB, html5, css3, javascript, jquery, Spring, mybatis를 사용
 - Date: 2020-11 
 - Category: java 프로젝트
 
-<button class="btn" type="button" onclick="location.href='https://github.com/GeunWoo-Lee/Spring_miniproject.git' ">소스보기</button>
+<button class="btn btn-primary" type="button" onclick="location.href='https://github.com/GeunWoo-Lee/Spring_miniproject.git' ">소스보기</button>
 
