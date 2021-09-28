@@ -42,7 +42,7 @@ ko-KR: &DEFAULT_KR
   about:
     title: "About"
     text: "&ldquo;직업 학교 자바 선생님으로 근무했었어요. 그런데... &rdquo;"
-    body: "개발을 하고 싶어요"
+    body: "개발을 하고 싶었어요.."
     section: about
   
 
@@ -74,7 +74,7 @@ ko-KR: &DEFAULT_KR
     text: "&ldquo;아직은 혼자에요&rdquo;" 	
     people:
       - name: "이근우"
-        role: "프로그래머"
+        role: "메인 개발자"
         image: assets/img/team/3.jpg	
         
   contact:
