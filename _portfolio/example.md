@@ -14,6 +14,8 @@ alt: image alt text
 python과 11번가 API와 BeautifulSoup, requests를 사용하여 웹크롤링, 
 chrome driver와 selenium을 사용하여 구매 실행, 
 multiprocessing을 사용하여 여러 사용자가 동시 구매 가능. 
+정해진 시간에 자동으로 로그인 및 구매로 무인으로 구매 가능(ARS 제외)
+
 
 {:.list-inline} 
 - Date: 2020.07
