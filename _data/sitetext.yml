@@ -14,7 +14,7 @@
 ko-KR: &DEFAULT_KR
   header:
     title: 안녕하세요, 저의 웹사이트 입니다. 
-    text: 이곳에 방문해주셔서 감사합니다.
+    text: 방문해주셔서 감사합니다.
     button: 더 알아보기
     buttonlink: "#services"
 
@@ -74,7 +74,7 @@ ko-KR: &DEFAULT_KR
     people:
       - name: "이근우"
         role: "프로그래머"
-        image: assets/img/team/me.jpg	
+        image: assets/img/team/3.jpg	
         
   contact:
     title: "제게 연락하고 싶으신가요?"

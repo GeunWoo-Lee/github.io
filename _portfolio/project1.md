@@ -1,13 +1,13 @@
 ---
 title: bitmex 자동 거래
 subtitle: python 프로젝트
-image: assets/img/timeline/6.jpg
+image: assets/img/portfolio/bitmex2.jpg
 alt: 
 
 caption:
   title: bitmex 자동 거래
   subtitle: python 프로젝트
-  thumbnail: assets/img/timeline/6.jpg
+  thumbnail: assets/img/portfolio/bitmex2.jpg
 ---
 
 python과 websocket, Rest API 및 Asyncio를 사용하여 개발중, 아직 해야 할 것이 상당히 많습니다. 
