@@ -22,9 +22,11 @@ Maven 프로젝트 기반으로 작성하였으며, pom.xml을 통해 dependenci
 repository를 이용하여 오라클 JDBC를 가져오고, 메이븐에서 제공하는 여러 디펜던시로 서블렛, 아파치 톰캣, 파일 업로드 라이브러리 등을 다운 받음.
 사실 생각보다 호환이 안되서 디펜던시를 여러번 갈아치웠었음. 맞는 버전이 아니면 에러 발생.   
 
+
 <B>#프론트 엔드</B>
 
 그외에 기본적인 프론트엔드는 java server page(jsp)로 구현, jsp로 구현하여 쉽게 자바로 html을 구현함. jstl로 웹페이지에 for문과 if문등을 구현.
+
 
 <B>#백엔드</B>
 
@@ -32,6 +34,7 @@ repository를 이용하여 오라클 JDBC를 가져오고, 메이븐에서 제�
 ModelAndView 객체를 리턴하여 불러올 서블렛 지정, 혹은 연산후에 실행할 페이지를 지정. 
 웹브라우저가 닫힐때 까지 유지되는 httpSession 을 사용하여 로그인 기능 유지 파일 업로드를 위하여 MultipartHttpServletRequest를 사용하고, 
 기본 경로 안에 /photo 폴더를 만들어 서버에 업로드
+
 
 <B>#데이터베이스</B>
 
@@ -41,11 +44,12 @@ Mybatis는 Spring-mvc-.xml 파일로 불러와서 bean으로 저장하여 사용
 이 정보와 경로는 spring-mvc.xml에 저장됨. OracleDB와의 연결은 Mybatis를 통해 mybatis-config.xml 파일과 Member.xml로 작성하고, 
 OracleDB의 설정은 db.properties.txt 파일에 저장되어 있음.
 
+
+
 {:.list-inline}
 
-<B>
 - Date: 2020-11 
 - Category: java 프로젝트
-</B>
+
 <button class="btn btn-primary" type="button" onclick="window.open('https://github.com/GeunWoo-Lee/Spring_miniproject.git')">자세히 보기</button>
 
