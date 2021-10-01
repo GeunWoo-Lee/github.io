@@ -39,8 +39,9 @@ OracleDB의 설정은 db.properties.txt 파일에 저장되어 있음.
 
 {:.list-inline}
 
+<B>
 - Date: 2020-11 
 - Category: java 프로젝트
-
+</B>
 <button class="btn btn-primary" type="button" onclick="window.open('https://github.com/GeunWoo-Lee/Spring_miniproject.git')">자세히 보기</button>
 
