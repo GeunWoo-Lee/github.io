@@ -33,9 +33,9 @@ ModelAndView 객체를 리턴하여 불러올 서블렛 지정, 혹은 연산후
 <B>#데이터베이스</B>
 저장되는 멤버나 파일정보는 MemberDAO를 통하여 @Autowired 된 sqlSessionFactory를 사용하여 Mybatis로 연결. 
 Mybatis는 Spring-mvc-.xml 파일로 불러와서 bean으로 저장하여 사용할 준비 함 그리고 DAO를 통하여 MemberFile.xml에 
-지정된 명령어로 명령을 수행하여 데이터 베이스에 저장함. 모든 sql이 sqlmap 폴더 밑의 xml 파일에 저장되어 있고, 
-이 정보와 경로는 spring-mvc.xml에 저장됨. OracleDB와의 연결은 Mybatis를 통해 mybatis-config.xml 파일과 Member.xml로 작성하였습니다. 
-OracleDB의 설정은 db.properties.txt 파일에 저장해 놓았습니다.
+지정된 명령어로 명령을 수행하여 oracle 데이터 베이스에 저장함. 모든 sql이 sqlmap 폴더 밑의 xml 파일에 저장되어 있고, 
+이 정보와 경로는 spring-mvc.xml에 저장됨. OracleDB와의 연결은 Mybatis를 통해 mybatis-config.xml 파일과 Member.xml로 작성하고, 
+OracleDB의 설정은 db.properties.txt 파일에 저장되어 있음.
 
 {:.list-inline}
 
