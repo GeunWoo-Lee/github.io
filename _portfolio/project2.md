@@ -16,9 +16,7 @@ java, jdbc, oracleDB, tomcat, html5, css3, javascript, jquery, jstl, Spring, myb
 기능 : 회원 가입 및 파일 업로드, 회원 수정, 탈퇴, 회원 리스트 조회, 로그인 기능, 로그아웃 기능. 
 
 
-<B>#구현 설명</B>
-
-Maven 프로젝트 기반으로 작성하였으며, pom.xml을 통해 dependencies를 지정함. 기본적으로 Spring 프레임워크 5.0을 기반으로 작성함.
+<B>#구현 설명</B><br>Maven 프로젝트 기반으로 작성하였으며, pom.xml을 통해 dependencies를 지정함. 기본적으로 Spring 프레임워크 5.0을 기반으로 작성함.
 repository를 이용하여 오라클 JDBC를 가져오고, 메이븐에서 제공하는 여러 디펜던시로 서블렛, 아파치 톰캣, 파일 업로드 라이브러리 등을 다운 받음.
 사실 생각보다 호환이 안되서 디펜던시를 여러번 갈아치웠었음. 맞는 버전이 아니면 에러 발생.   
 
